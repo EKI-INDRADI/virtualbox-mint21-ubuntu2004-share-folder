@@ -40,8 +40,6 @@ Folder Path : D:\___CODE_GIT2\CODE
 Folder Name : CODE
 Mount Point : /home/CODE
 
-Permanent
-
 ```
 
 Not permanent
@@ -77,7 +75,9 @@ CODE /home/CODE vboxsf rw,uid=1000,gid=1000 0 0
 
 ## Reference : 
 
-:link: [Reference 1](https://www.linuxbabe.com/linux-mint/install-virtualbox-guest-additions-in-linux-mint)
-:link: [Reference 2](https://forums.virtualbox.org/viewtopic.php?t=79965)
+:link: [www.linuxbabe.com](https://www.linuxbabe.com/linux-mint/install-virtualbox-guest-additions-in-linux-mint)
 
+:link: [forums.virtualbox.org](https://forums.virtualbox.org/viewtopic.php?t=79965)
+
+:link: [chat.openai.com](https://chat.openai.com)
 
